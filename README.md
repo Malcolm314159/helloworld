@@ -1,3 +1,3 @@
-# helloworld
+# Practice repository for dwa15
 
-practice repository for dwa15
+http://dwa15.com
